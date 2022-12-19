@@ -49,5 +49,4 @@ const traverseLines = (linesMatrix) => {
     console.log(maxCalc)
 }
 
-
 traverseLines(linesMatrix)
